@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-04T17:45:09 EEST" name="Default suite" finished-at="2022-08-04T17:45:09 EEST" duration-ms="49">
+    <groups>
+    </groups>
+    <test started-at="2022-08-04T17:45:09 EEST" name="Default test" finished-at="2022-08-04T17:45:09 EEST" duration-ms="49">
+      <class name="curs20.TestExample">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:curs20.TestExample@3c419631]" started-at="2022-08-04T17:45:09 EEST" name="setUp" finished-at="2022-08-04T17:45:09 EEST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="runMultipleTimes()[pri:0, instance:curs20.TestExample@3c419631]" started-at="2022-08-04T17:45:09 EEST" name="runMultipleTimes" finished-at="2022-08-04T17:45:09 EEST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMultipleTimes -->
+        <test-method signature="runMultipleTimes()[pri:0, instance:curs20.TestExample@3c419631]" started-at="2022-08-04T17:45:09 EEST" name="runMultipleTimes" finished-at="2022-08-04T17:45:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMultipleTimes -->
+        <test-method signature="runMultipleTimes()[pri:0, instance:curs20.TestExample@3c419631]" started-at="2022-08-04T17:45:09 EEST" name="runMultipleTimes" finished-at="2022-08-04T17:45:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMultipleTimes -->
+        <test-method signature="runMultipleTimes()[pri:0, instance:curs20.TestExample@3c419631]" started-at="2022-08-04T17:45:09 EEST" name="runMultipleTimes" finished-at="2022-08-04T17:45:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runMultipleTimes -->
+        <test-method signature="testAnnotation()[pri:0, instance:curs20.TestExample@3c419631]" started-at="2022-08-04T17:45:09 EEST" name="testAnnotation" finished-at="2022-08-04T17:45:09 EEST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAnnotation -->
+      </class> <!-- curs20.TestExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

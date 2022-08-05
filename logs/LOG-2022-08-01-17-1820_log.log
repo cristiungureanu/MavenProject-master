@@ -1,0 +1,17 @@
+17:18:20.592 [main] INFO  curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.595 [main] INFO  curs17.Log - + Strat test case : testLogin++++++++++++
+17:18:20.600 [main] INFO  curs17.Log - Start time :2022.08.01.17.18.20
+17:18:20.600 [main] INFO  curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.610 [main] INFO  curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.610 [main] INFO  curs17.Log - + PASSED test case : testLogin++++++++++++
+17:18:20.611 [main] INFO  curs17.Log - PASSED time :2022.08.01.17.18.20
+17:18:20.611 [main] INFO  curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.612 [main] INFO  curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.625 [main] INFO  curs17.Log - + Strat test case : testProduct++++++++++++
+17:18:20.625 [main] INFO  curs17.Log - Start time :2022.08.01.17.18.20
+17:18:20.625 [main] INFO  curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.627 [main] ERROR curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
+17:18:20.627 [main] ERROR curs17.Log - + FAILED test case : testProduct++++++++++++
+17:18:20.627 [main] ERROR curs17.Log - FAILED time :2022.08.01.17.18.20
+17:18:20.628 [main] ERROR curs17.Log - java.lang.AssertionError: expected [true] but found [false]
+17:18:20.628 [main] ERROR curs17.Log - +++++++++++++++++++++++++++++++++++++++++++++
